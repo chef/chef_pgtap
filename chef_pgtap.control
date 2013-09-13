@@ -1,0 +1,6 @@
+comment = 'Opscode pgTAP Testing Functions'
+default_version = '0.1.0'
+requires = 'pgtap'
+relocatable = false
+schema = chef_pgtap
+superuser = false
