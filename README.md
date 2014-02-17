@@ -1,9 +1,9 @@
-chef_pgtap: Opscode's Custom pgTAP Test Extensions
-================================================
+chef_pgtap: CHEF's Custom pgTAP Test Extensions
+===============================================
 
 [pgTAP][] is awesome for testing PostgreSQL databases, but sometimes
 you need some custom testing functions that aren't built into pgTAP
-yet.  `chef_pgtap` is where Opscode currently keeps its custom functions to
+yet.  `chef_pgtap` is where CHEF currently keeps its custom functions to
 facilitate their reuse across our various database projects.
 
 `chef_pgtap` is shipped as a [PostgreSQL extension][], which is
