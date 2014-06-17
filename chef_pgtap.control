@@ -1,4 +1,4 @@
-comment = 'CHEF's pgTAP Testing Functions'
+comment = 'CHEF pgTAP Testing Functions'
 default_version = '0.1.0'
 requires = 'pgtap'
 relocatable = false
